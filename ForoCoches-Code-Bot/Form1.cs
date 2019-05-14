@@ -265,34 +265,34 @@ namespace ForoCoches_Code_Bot
         #region Copys
         private void i1CopyButton_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(i1OkButton.Text);
+            Clipboard.SetText(i1TextBox.Text);
         }
         private void i2CopyButton_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(i2OkButton.Text);
+            Clipboard.SetText(i2TextBox.Text);
         }
         private void i3CopyButton_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(i3OkButton.Text);
+            Clipboard.SetText(i3TextBox.Text);
         }
         private void i4CopyButton_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(i4OkButton.Text);
+            Clipboard.SetText(i4TextBox.Text);
         }
         private void i5CopyButton_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(i5OkButton.Text);
+            Clipboard.SetText(i5TextBox.Text);
         }
         #endregion
 
         #region Opens
         private void faceBookForoCochesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start(@"https://forocoches.com/codigo");
+            Process.Start(@"https://www.facebook.com/forocoches/");
         }
         private void foroCochescodigoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start(@"https://www.facebook.com/forocoches/");
+            Process.Start(@"https://forocoches.com/codigo");
         }
         #endregion
         #region Waits

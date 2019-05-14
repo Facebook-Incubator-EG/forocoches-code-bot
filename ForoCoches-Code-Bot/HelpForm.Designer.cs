@@ -47,7 +47,7 @@
             this.VersionLabel.Name = "VersionLabel";
             this.VersionLabel.Size = new System.Drawing.Size(22, 13);
             this.VersionLabel.TabIndex = 18;
-            this.VersionLabel.Text = "1.0";
+            this.VersionLabel.Text = "1.1";
             // 
             // exitButton
             // 
