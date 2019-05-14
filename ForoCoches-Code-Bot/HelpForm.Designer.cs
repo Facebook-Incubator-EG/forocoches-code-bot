@@ -47,7 +47,7 @@
             this.VersionLabel.Name = "VersionLabel";
             this.VersionLabel.Size = new System.Drawing.Size(22, 13);
             this.VersionLabel.TabIndex = 18;
-            this.VersionLabel.Text = "0.0";
+            this.VersionLabel.Text = "1.0";
             // 
             // exitButton
             // 
@@ -124,10 +124,10 @@
             this.label8.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.label8.Location = new System.Drawing.Point(14, 132);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(175, 39);
+            this.label8.Size = new System.Drawing.Size(188, 39);
             this.label8.TabIndex = 12;
-            this.label8.Text = "Mejores horas para buscar códigos:\r\n     · De 15:30 a 18:00\r\n     · De 21:30 a 23" +
-    ":00";
+            this.label8.Text = "Mejores horas para buscar códigos:\r\n     · De 15:30 a 18:00          (Excepto\r\n  " +
+    "   · De 21:30 a 23:00         Domingos)";
             // 
             // HelpForm
             // 
