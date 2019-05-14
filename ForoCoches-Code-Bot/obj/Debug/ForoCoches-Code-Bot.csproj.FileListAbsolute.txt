@@ -1,0 +1,10 @@
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\bin\Debug\ForoCoches-Code-Bot.exe
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\bin\Debug\ForoCoches-Code-Bot.pdb
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\obj\Debug\ForoCoches-Code-Bot.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\obj\Debug\ForoCoches_Code_Bot.Form1.resources
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\obj\Debug\ForoCoches_Code_Bot.Properties.Resources.resources
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\obj\Debug\ForoCoches-Code-Bot.csproj.GenerateResource.cache
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\obj\Debug\ForoCoches-Code-Bot.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\obj\Debug\ForoCoches-Code-Bot.exe
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\obj\Debug\ForoCoches-Code-Bot.pdb
+C:\Users\Jose\source\repos\ForoCoches-Code-Bot\ForoCoches-Code-Bot\obj\Debug\ForoCoches_Code_Bot.HelpForm.resources
